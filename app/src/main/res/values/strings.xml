@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name_for">NISARG CHOUDHARY</string>
+    <string name="description_for_name">Android Developer Extraordinaire</string>
+    <string name="phone_number">+91 9294511772</string>
+    <string name="X_handle">\@nisarg6710</string>
+    <string name="email">nisarg6710@gmail.com</string>
+</resources>
